@@ -7,13 +7,12 @@ branco = '\033[37m'
 
 opcao = 0
 while opcao != 5:
-     print("Mack cores")
+     print(branco, \n "Mack cores")
      print("1-vermelho")
      print("2-azul")
      print("3-verde")
      print("4-amarelo")
      print("5-branco")
-     print("6-sair")
      opcao = int(input("informe sua opção: "))
 
      if opcao == 1:
@@ -25,4 +24,6 @@ while opcao != 5:
      elif opcao == 4:
          print(amarelo, "MACKENZIE")
      elif opcao == 5:
-         print(branco, "MACKENZIE")
+         print("acabou")
+     else: 
+          print("opção inválida!")

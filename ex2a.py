@@ -7,7 +7,7 @@ branco = '\033[37m'
 
 opcao = 0
 while opcao != 5:
-     print(branco, \n "Mack cores")
+     print(branco, "\n Mack cores")
      print("1-vermelho")
      print("2-azul")
      print("3-verde")

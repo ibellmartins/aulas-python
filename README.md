@@ -1,2 +1,3 @@
-# python-studies
-algoritmos - exercícios em aula 
+# python-aulas
+algoritmos - exercícios passados em aula
+

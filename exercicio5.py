@@ -12,7 +12,7 @@ def verificaOpcao():
         if escala == "F" or escala == "C":
             break
         else:
-            print('Escala inválida')
+            print('Escala inválida. Digite novamente: ')
     return escala
 
 

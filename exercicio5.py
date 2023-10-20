@@ -13,7 +13,7 @@ def verificaOpcao():
             break
         else:
             print('Escala inválida')
-        return escala
+    return escala
 
 
 def verificaIntervalo():

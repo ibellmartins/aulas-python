@@ -6,7 +6,7 @@ idadeTotal = 0
 maioridadeBom = 0
 for num in range(1, 100):
     print(f"Pessoa {num}: ")
-    while True:
+    while True: #valicao 
      idade = int(input("digite sua idade: ")) 
      if idade <= 14:
          print("Idade inválida!!!")

@@ -1,3 +1,3 @@
 # python-aulas
-algoritmos - exercícios passados em aula
+algoritmos - resolução de exercícios passados em aula
 
